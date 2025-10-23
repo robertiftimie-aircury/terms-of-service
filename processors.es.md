@@ -1,7 +1,7 @@
 # Nuestros procesadores de datos
 
 Usamos tecnología de ciertos procesadores de datos para apoyar nuestro funcionamiento. Cuando el producto de un
-proveedor está fuera de la UE, solo usamos los productos de ese proveedor si ha sido acordado con el cliente.
+proveedor está fuera de la UE, sólo usamos los productos de ese proveedor si ha sido acordado con el cliente.
 
 | Nombre                    | Tipo                                      | Lugar                | 
 |---------------------------|-------------------------------------------|----------------------|

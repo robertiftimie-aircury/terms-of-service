@@ -15,7 +15,7 @@ cookies.
 For more information on cookies see the [Wikipedia article on HTTP Cookies][1], the [Cookies page by the Information
 Commissioner's Office][2] or [Google][3].
 
-## How we use cookies?
+## How do we use cookies?
 
 We use cookies for a variety of reasons detailed below. Unfortunately in most cases, it is not possible to disable
 cookies without completely disabling the functionality and features they add to this site.
@@ -31,7 +31,7 @@ We use cookies when you are logged in so that we can remember this fact. This pr
 single time you visit our page. These cookies are typically removed or cleared when you log out to ensure that you can
 only access restricted features and areas when logged in.
 
-When you submit data to through a form such as those found on contact pages.
+When you submit data through a form such as those found on contact pages.
 
 ### Third party cookies
 
@@ -59,7 +59,7 @@ You can prevent the setting of cookies by adjusting the settings on your browser
 
 Be aware that disabling cookies will affect the functionality of this and many other websites that you visit.
 
-Disabling cookies will usually result in also disabling certain functionality and features of the this site. Therefore
+Disabling cookies will usually result in also disabling certain functionality and features of this site. Therefore
 it is recommended that you do not disable cookies.
 
 If you want to disable cookies, you will need to follow different steps depending on the web browser that you are
