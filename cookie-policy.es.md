@@ -61,7 +61,7 @@ abajo.
 Puedes prevenir que se establezcan cookies ajustando la configuración de tu navegador.
 
 Ten en cuenta que deshabilitar las cookies afectará a la funcionalidad de ésta y de otras muchas páginas webs que
-visitors.
+visites.
 
 Deshabilitar las cookies normalmente también resultará en la deshabilitación de cierta funcionalidad y características
 de éste sitio. Por consiguiente no es recomendable que deshabilites las cookies.
